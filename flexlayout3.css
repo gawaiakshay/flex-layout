@@ -1,0 +1,85 @@
+*{margin: 0%;
+padding: 0%;}
+
+.container{
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header{background-color: brown;
+flex-basis: 15%;
+display: flex;
+flex-direction: row;
+}
+.media{background-color: grey;flex-basis: 50%;}
+.navbar{background-color: blue;flex-basis: 50%;}
+
+
+main{background-color: yellow;
+    flex-basis: 70%;
+    display: flex;
+    flex-direction: row;
+}
+
+aside{background-color: blue;
+    flex-basis: 25%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.one{background-color: aqua;
+flex-basis: 25%;}
+
+.two{background-color: white;
+    flex-basis: 25%;}
+
+.three{background-color: crimson;
+    flex-basis: 25%;}
+
+.four{background-color: chartreuse;
+    flex-basis: 25%;}
+
+
+section{background-color: blueviolet;
+    flex-basis: 50%;
+display: flex;
+flex-direction: column;}
+
+ 
+    .top{background-color: yellow;
+    flex-basis: 50%;
+display: flex;
+flex-direction: row;}
+
+    .a{background-color: tomato;flex-basis: 50%;}
+    .b{background-color: chartreuse;flex-basis: 50%;}
+
+
+    .bottom{background-color: blue;
+    flex-basis: 50%;
+display: flex;
+flex-direction: row;}
+
+    .c{background-color:silver;flex-basis: 50%;}
+
+    .d{background-color: darkred;flex-basis: 50%;}
+
+
+
+article{background-color: magenta;
+    flex-basis: 25%;
+display: flex;
+flex-direction: row;}
+
+
+    .art1{background-color: red;flex-basis: 50%;}
+    .art2{background-color: green;flex-basis: 50%;}
+
+
+
+footer{background-color: magenta;
+flex-basis: 15%;}
+
